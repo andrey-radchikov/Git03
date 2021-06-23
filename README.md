@@ -1,4 +1,1 @@
-03.Git hosting
-add 3 remote repositories: GitHub, GitLab, Bitbucket
-execute push.sh
-ERROR
+Thu Jun 24 00:28:18 +03 2021
